@@ -1,0 +1,27 @@
+.orders__bottomline{
+    border-bottom:1px solid grey;
+    width:1200px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.orders__text{
+    color:rgb(63, 63, 223);
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+.orders__text1{
+    color:rgb(63, 63, 223);
+    font-size: 15px;
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: rgb(11, 14, 184);
+    text-emphasis:dot 🤔;
+   
+}
+.orders__heading{
+    position: relative;
+    left:100px;
+    font-size: 30px;
+}

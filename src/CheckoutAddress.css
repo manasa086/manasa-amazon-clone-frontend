@@ -1,0 +1,38 @@
+.checkout__paragraph{
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+.checkout__horizontal
+{
+    width:1300px;
+    margin-top: 20px;
+    border:1px solid darkgrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+.checkoutAddress__button{
+    
+    margin-left: 50px;
+    background: #ecc96f;
+    border-radius: 2px;
+    height: 30px;
+    border: 1px solid;
+    width:200px!important;
+    margin-top: 10px;
+    border-color:#a88734 #9c7e31 #846a29;
+}
+.checkoutAddress__buttons1{
+    width:100px!important;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.checkoutAddress__buttons2{
+    width:100px!important;
+
+    margin-top: 20px;
+}
+.checkout__address{
+    margin-top: 50px;
+    margin-left: 50px;
+}
